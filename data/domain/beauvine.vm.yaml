@@ -1,0 +1,9 @@
+---
+profile::pasture::app::default_message: "Hello Terra Luna LUNC Coin on Kucoin!"
+profile::base::dev_users::users:
+  - title: 'bessie'
+    comment: 'Bessie Johnson'
+    pub_key: 'AAAAB3NzaC1yc2EAAAADAQABAAABAQCyIaRXAdVbw9MnMu/UBa+McvMCO+/RXN176z71cKnd399BQGdFIxTVECtq35zSvc3D5EHZEed86JZ4W+90omlmVvts8Mfwu2ZJlXU4EvdqP2IcHL8mYnzsDpCvQnXN8M43hbxxGslg0OIjvHCES/NKJWroQWHjVaBcJ+blO8M0Yh3oHNs6Y/KKy/gKkxqi2xqJq0shqRN7RnrjA2aUt3iZpp4XN/jN9HOPjzYk/yjBuDS4nRt+9Z5+VhYEIUSx79DfEjwajtAx5i+w55SdehnPnckjiNNdVk8ht3CTJZeQBYN7SLEgkI3rrsqcxDz6fQvdcxieUX+8n2cQ1z4VYKKN'
+  - title: 'gertie'
+    comment: 'Gertie Philips'
+    pub_key: 'AAAAB3NzaC1yc2EAAAADAQABAAABAQCyIaRXAdVbw9MnMu/UBa+McvMCO+/RXN176z71cKnd399BQGdFIxTVECtq35zSvc3D5EHZEed86JZ4W+90omlmVvts8Mfwu2ZJlXU4EvdqP2IcHL8mYnzsDpCvQnXN8M43hbxxGslg0OIjvHCES/NKJWroQWHjVaBcJ+blO8M0Yh3oHNs6Y/KKy/gKkxqi2xqJq0shqRN7RnrjA2aUt3iZpp4XN/jN9HOPjzYk/yjBuDS4nRt+9Z5+VhYEIUSx79DfEjwajtAx5i+w55SdehnPnckjiNNdVk8ht3CTJZeQBYN7SLEgkI3rrsqcxDz6fQvdcxieUX+8n2cQ1z4VYKKN'
